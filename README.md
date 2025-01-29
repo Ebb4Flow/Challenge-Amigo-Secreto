@@ -11,4 +11,4 @@
     </ol>
 <p>👥 <strong>¡Diviértete sorteando tu amigo secreto!</strong> 🎉</p>
 
-<img src="assets/Logo-Alura.jpg" alt="Logo de Alura" />
+<img src="assets/Logo-Alura.jpg" alt="Logo de Alura"/>
