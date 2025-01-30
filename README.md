@@ -1,7 +1,7 @@
 <h1>👑 Challenge Amigo Secreto 👑</h1>
 <p>📌 Proyecto del curso: "Practicando Lógica de Programación: Challenge Amigo Secreto" de <strong>ALURA Latam</strong>.</p>
 
-<p>🎯 El proyecto permite al usuario agregar tantos nombres como desee. Una vez que los nombres estén en la lista, el usuario podrá presionar el botón "Sortear Amigo", el cual seleccionará aleatoriamente un nombre de la lista y asignará al amigo secreto para ese usuario.</p>
+<p>🔍 El proyecto permite al usuario agregar tantos nombres como desee. Una vez que los nombres estén en la lista, el usuario podrá presionar el botón "Sortear Amigo", el cual seleccionará aleatoriamente un nombre de la lista y asignará al amigo secreto para ese usuario.</p>
 <p>🛠️ Funcionalides que se esperan:</p>
     <ol>
         <li><strong>Agregar nombres</strong>: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".</li>
